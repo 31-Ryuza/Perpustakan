@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Perpustakaan</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="choice_sort">
+        <item>Semua Data</item>
+        <item>Dipinjam</item>
+        <item>Dikembalikan</item>
+    </string-array>
+</resources>
